@@ -17,3 +17,7 @@ They focus on layout and information hierarchy rather than design details.
 # High-Fidelity Wireframes
 High-fidelity wireframes are detailed and polished, closely resembling the final product.
 They demonstrate visual design, interactivity, and user flow.
+
+# Wireframe Tools 
+# Figma
+Figma is one of the most popular and versatile tools for wireframing and UI/UX design. It’s a browser-based, collaborative design platform that allows teams to create, share, and iterate on wireframes and prototypes in real time.
